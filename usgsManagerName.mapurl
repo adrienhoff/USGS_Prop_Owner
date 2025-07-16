@@ -1,0 +1,5 @@
+url=usgsManagerName/ZZZ/XXX/YYY.png
+minzoom=5
+maxzoom=12
+center=-105.551013 38.997942
+type=google
