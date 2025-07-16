@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+    <name>USGS Manager Name</name>
+    <minZoom>0</minZoom>
+    <maxZoom>20</maxZoom>
+    <tileType>image/png</tileType>
+    <url>https://adrienhoff.github.io/USGS_Prop_Owner/usgsManagerName/{$z}/{$x}/{$y}.png</url>
+    <tileUpdate>false</tileUpdate>
+    <backgroundColor>#FFFFFF</backgroundColor>
+    <ignoreErrors>false</ignoreErrors>
+    <serverParts></serverParts>
+</customMapSource>
+
